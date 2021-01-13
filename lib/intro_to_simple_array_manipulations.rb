@@ -13,7 +13,7 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  puts array.pop(2)
+   array.pop(2)
 end
 
 def using_shift(array)
