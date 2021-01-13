@@ -19,3 +19,4 @@ end
 
 def using_shift
   array.unshift()
+end
